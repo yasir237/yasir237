@@ -67,8 +67,14 @@ When I'm not coding, I enjoy researching cutting-edge technologies and creating 
 # 🚀 Visitor Count:
 [![Profile Views](https://visitcount.itsvg.in/api?id=yasir237&icon=0&color=1)](https://visitcount.itsvg.in)
 
+
 ---
 # 💻 My Projects
+## 4. Sınıf
+|                    |                    |
+|:-------------------------:|:-------------------------:|
+| [![](https://github.com/user-attachments/assets/389bc4bf-7847-44a3-a379-65fd5516940d)](https://github.com/yasir237/AlrawiChat) **Alrawi Chat** |
+
 ## 3. Sınıf
 |                    |                    |
 |:-------------------------:|:-------------------------:|
