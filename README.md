@@ -91,6 +91,7 @@ When I'm not coding, I enjoy researching cutting-edge technologies and creating 
 |                    |                    |
 |:-------------------------:|:-------------------------:|
 | [![](https://github.com/user-attachments/assets/44f0e4f9-3707-4319-93bc-4e36f6e3e510)](https://github.com/yasir237/hesap-makinesi) **Hesap Makinesi** | [![](https://github.com/user-attachments/assets/9891fd7a-5146-4d36-a509-ff6302a483eb)](https://github.com/yasir237/3x3-matrisler) **3x3 Matrisler** |
+| [![](https://github.com/user-attachments/assets/c2ec97d8-3bc7-4d7a-8d02-edc877ae73fb)](https://github.com/yasir237/rawi-rush) **Rawi Rush** | 
 
 
   
