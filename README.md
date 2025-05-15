@@ -74,6 +74,7 @@ When I'm not coding, I enjoy researching cutting-edge technologies and creating 
 |                    |                    |
 |:-------------------------:|:-------------------------:|
 | [![](https://github.com/user-attachments/assets/389bc4bf-7847-44a3-a379-65fd5516940d)](https://github.com/yasir237/AlrawiChat) **Alrawi Chat** | [![](https://github.com/user-attachments/assets/3569b407-21dd-4e28-a02d-ba3c1a4f8d37)](https://github.com/yasir237/Zikra-NamazVakitleri) **Zikra - Namaz Vakitleri** |
+| [![](https://github.com/user-attachments/assets/aa49a42a-a60b-4735-8502-343421b37fa7)]([https://github.com/yasir237/AlrawiChat](https://github.com/yasir237/NotesApp)) **NotesApp** | 
 
 ## 3. Sınıf
 |                    |                    |
